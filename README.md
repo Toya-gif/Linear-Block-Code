@@ -161,13 +161,13 @@ Syndrome Matrix
 The error postion is : 0 0 1 0 0 0 0
 The correct codeword is : 1 1 1 0 0 1 0
 ```
-# Results
-
 ![WhatsApp Image 2025-09-22 at 13 57 47_b909c332](https://github.com/user-attachments/assets/53b171e0-93c4-4429-818e-6bbb9de67f6b)
 ![WhatsApp Image 2025-09-22 at 13 57 48_c7fdb7dc](https://github.com/user-attachments/assets/fa5b3459-60b5-4dc3-a395-38649c0af8db)
 ![WhatsApp Image 2025-09-22 at 13 57 48_499f435d](https://github.com/user-attachments/assets/e2f949ff-9ff4-4912-b19a-ee55fccd5cb8)
 
+# Results
 
+Thus the simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code is done and verified.
 
 ```
 # Hardware experiment output waveform.
